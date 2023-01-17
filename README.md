@@ -10,7 +10,7 @@ I'm a software and Blockchain developer and I've been working at Perigea Srl, a 
 * 🚀  I'm currently working on [Raccoon Fantasy](http://play.raccoonfantasy.com)
 
 
-
+\n\n
 
 Skill
 ---------------------------------
