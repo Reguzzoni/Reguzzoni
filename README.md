@@ -1,8 +1,6 @@
 Hi 👋 My name is Andrea Reguzzoni
 =================================
 
-<br/>
-
 Software and Blockchain Developer
 ---------------------------------
 
