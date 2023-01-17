@@ -2,7 +2,7 @@ Hi 👋 My name is Andrea Reguzzoni
 =================================
 
 <br/>
-<br/>
+
 Software and Blockchain Developer
 ---------------------------------
 
@@ -12,7 +12,7 @@ I'm a software and Blockchain developer and I've been working at Perigea Srl, a 
 * 🚀  I'm currently working on [Raccoon Fantasy](http://play.raccoonfantasy.com)
 
 <br/>
-<br/>
+
 Skill
 ---------------------------------
 
@@ -64,14 +64,14 @@ Skill
 </p>
 
 <br/>
-<br/>
+
 Social
 ---------------------------------
 
 <p align="left"> <a href="https://www.github.com/reguzzoni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andreareguzzoni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <br/>
-<br/>
+
 Stats
 ---------------------------------
 
