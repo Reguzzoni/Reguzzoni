@@ -9,6 +9,10 @@ I'm a software and Blockchain developer and I've been working at Perigea Srl, a 
 * 🌍  I'm based in Milan
 * 🚀  I'm currently working on [Raccoon Fantasy](http://play.raccoonfantasy.com)
 
+
+Skill
+---------------------------------
+
 ### Improving
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
@@ -55,13 +59,16 @@ I'm a software and Blockchain developer and I've been working at Perigea Srl, a 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
 </p>
----------------------------------
 
-### Socials
+
+Social
+---------------------------------
 
 <p align="left"> <a href="https://www.github.com/reguzzoni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andreareguzzoni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+
+Stats
+---------------------------------
 
 <b>My GitHub Stats</b>
 
