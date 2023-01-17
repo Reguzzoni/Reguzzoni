@@ -6,7 +6,7 @@ Hi 👋 My name is Andrea Reguzzoni
 Software and Blockchain Developer
 ---------------------------------
 
-I'm a software and Blockchain developer and I've been working at Perigea Srl, a financial consulting company. I'm a technology enthusiast and as such I spend significant amount of time reviewing and trying new technology!
+I'm a software and Blockchain developer and I've been working for 6 years at Perigea Srl, a financial consulting company. I'm a technology enthusiast and as such I spend significant amount of time reviewing and trying new technology!
 
 * 🌍  I'm based in Milan
 * 🚀  I'm currently working on [Raccoon Fantasy](http://play.raccoonfantasy.com)
