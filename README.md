@@ -12,6 +12,9 @@ I'm a technology enthusiast and as such I spend significant amount of time revie
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfagov)](https://github.com/Reguzzoni/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reguzzoni&count_private=true)
+
 Skill
 ---------------------------------
 
